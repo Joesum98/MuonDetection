@@ -1,7 +1,10 @@
 # MuonDetection
 Take in data from TASD and create 3 different kinds of plots:
+
 1.) Average energy deposited vs incident energy
+
 2.) # of triggers vs Energy Deposited (for a specific energy bin)
+
 3.) Energy deposit distribution
 
 Instructions:
